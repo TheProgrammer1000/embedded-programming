@@ -1,0 +1,6 @@
+The ATmega328P has 1024 bytes of EEPROM (Electrically Erasable Programmable Read-Only Memory)
+available for use by programs.
+
+EEPROM memory is similar to the ROM memory in that the data in it is
+retained (non-volatile) when the power to the chip is turned off, but the contents can be modified by the
+program similar to how RAM is used

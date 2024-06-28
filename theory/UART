@@ -1,0 +1,6 @@
+UCSRnA = is a control and status register for the USART module in AVR microcontrollers,
+containing various bits to monitor and control USART operations.
+Checking specific bits like UDREn helps in managing the USART data flow effectively.
+
+
+UDREn = (USART Data Register Empty), if this is set to 1 we can transmit Data
